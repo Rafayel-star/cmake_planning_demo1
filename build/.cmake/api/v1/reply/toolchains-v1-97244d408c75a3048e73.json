@@ -5,28 +5,10 @@
 		{
 			"compiler" : 
 			{
-				"id" : "GNU",
-				"implicit" : 
-				{
-					"includeDirectories" : 
-					[
-						"D:/Programs/Microsoft VS Code/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include",
-						"D:/Programs/Microsoft VS Code/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed",
-						"D:/Programs/Microsoft VS Code/mingw64/x86_64-w64-mingw32/include"
-					],
-					"linkDirectories" : [],
-					"linkFrameworkDirectories" : [],
-					"linkLibraries" : []
-				},
-				"path" : "D:/Programs/Microsoft VS Code/mingw64/bin/gcc.exe",
-				"version" : "14.2.0"
+				"implicit" : {},
+				"path" : "D:/Programs/Microsoft VS Code/mingw64/bin/gcc.exe"
 			},
-			"language" : "C",
-			"sourceFileExtensions" : 
-			[
-				"c",
-				"m"
-			]
+			"language" : "C"
 		},
 		{
 			"compiler" : 
@@ -59,6 +41,7 @@
 				"cc",
 				"cpp",
 				"cxx",
+				"m",
 				"mm",
 				"mpp",
 				"CPP",
